@@ -8,50 +8,50 @@ The following tools were utilized:
 
 ###### Map Creation With Tiled
 
-- [] Download & Setup
+- [ ] Download & Setup
 
-- [] Create Assets
+- [ ] Create Assets
 
-- [] Download Tiled
+- [ ] Download Tiled
 
-- [] Tile Layering for Ocean and Landmass
+- [ ] Tile Layering for Ocean and Landmass
 
-- [] Layering & Placement of Trees
+- [ ] Layering & Placement of Trees
 
-- [] Landscape Details
+- [ ] Landscape Details
 
-- [] Collisions & Boundaries
+- [ ] Collisions & Boundaries
 
-- [] Foreground Layers
+- [ ] Foreground Layers
 
-- [] Export Layers for Project Import
+- [ ] Export Layers for Project Import
 
 ###### Player & Map Dev
 
-- [] Project Setup
+- [ ] Project Setup
 
-- [] Import & Render Map
+- [ ] Import & Render Map
 
-- [] Player Creation
+- [ ] Player Creation
 
-- [] Player Movement
+- [ ] Player Movement
 
-- [] PtM Boundary Collisions
+- [ ] PtM Boundary Collisions
 
-- [] Foreground Objects
+- [ ] Foreground Objects
 
-- [] Movement Animation
+- [ ] Movement Animation
 
 ###### Interaction
 
-- [] Interaction Activation
+- [ ] Interaction Activation
 
-- [] Transition to Viewing Objects
+- [ ] Transition to Viewing Objects
 
-- [] Background Blur
+- [ ] Background Blur
 
-- [] Audio
+- [ ] Audio
 
-- [] Fast Travel
+- [ ] Fast Travel
 
-- [] ProjiDex
+- [ ] ProjiDex
